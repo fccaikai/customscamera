@@ -1,3 +1,5 @@
 .gitignore  
 gen/*
 bin/*
+/gen/
+/bin/
